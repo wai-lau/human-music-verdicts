@@ -1,0 +1,46 @@
+# Once a day: fetch Zoundhub's data file, keep only its clear AI flags and publish them here as
+# zoundhub.json, which Human Music reads like any list. The work is done by
+# scripts/zoundhub-mirror.mjs in wai-lau/human-music; if the fetch fails or the result looks wrong,
+# nothing is committed and yesterday's list stays up.
+name: zoundhub mirror
+
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zoundhub-mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Actions pinned by commit: checkout v7.0.1, setup-node v7.1.0.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          repository: wai-lau/human-music
+          path: hm
+          persist-credentials: false
+          sparse-checkout: |
+            extension/src/core
+            scripts
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1
+        with:
+          node-version: '22'
+      - run: node hm/scripts/zoundhub-mirror.mjs zoundhub.json zoundhub.json
+      - name: commit if changed
+        run: |
+          git config user.name 'Human Music mirror'
+          git config user.email 'human-music-mirror@users.noreply.github.com'
+          git add zoundhub.json
+          if git diff --cached --quiet; then echo 'no change'; exit 0; fi
+          git commit -q -m "Update zoundhub.json ($(date -u +%Y-%m-%d))"
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main
