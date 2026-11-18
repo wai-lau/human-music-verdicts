@@ -31,9 +31,10 @@ artists it rates 5 dots that also carry Deezer's AI label, with a debut in
 classification", so the less certain ratings are left out. A name that
 Zoundhub also gives to a low-rated artist matches by Spotify ID only.
 
-The data is Zoundhub's, not covered by this repository's licence. A
-scheduled workflow (`.github/workflows/zoundhub-mirror.yml`) refreshes it
-once a day.
+The data is Zoundhub's, not covered by this repository's licence. It is
+refreshed once a day from the maintainer's computer
+([scripts/zoundhub-refresh.sh](https://github.com/wai-lau/human-music/blob/main/scripts/zoundhub-refresh.sh)):
+zoundhub.com doesn't answer requests from servers such as GitHub's.
 
 ## Licence
 
