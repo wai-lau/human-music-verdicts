@@ -2,8 +2,28 @@
  "name": "Zoundhub",
  "source": "https://zoundhub.com",
  "note": "Artists Zoundhub rates 5 with Deezer's AI label, debut 2020 or later, mirrored once a day by Human Music. Zoundhub calls its rating \"an AI signal, not a verified classification\". A name Zoundhub also gives a low-rated artist matches by Spotify ID only (idOnly).",
- "updated": "2026-11-18T17:08:09.524Z",
+ "updated": "2026-11-19T11:34:05.299Z",
  "artists": [
+  {
+   "name": "Axzytzz",
+   "spotifyId": "5tRqTct1ZaO37Q6rQKwwBp"
+  },
+  {
+   "name": "Funkonaut Sound",
+   "spotifyId": "6uejbOwuN8C0aWgDJc0Z61"
+  },
+  {
+   "name": "WVRZ",
+   "spotifyId": "1PnADKEJd2077sXuVGSqIv"
+  },
+  {
+   "name": "DJ DON DADDY ORIGINAL",
+   "spotifyId": "0babU8AjBkxQu47nzUOvB7"
+  },
+  {
+   "name": "SyNthStep Walker",
+   "spotifyId": "4k4uFL5ThhvgG2Y4tgyu75"
+  },
   {
    "name": "Elliath Rexed",
    "spotifyId": "4dqwavCQ0EQHZXdOsDRUQT"
