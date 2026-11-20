@@ -1,6 +1,25 @@
 {
   "name": "Human Music verdicts",
-  "updated": "2026-11-19T04:53:04.900Z",
+  "updated": "2026-11-20T21:29:28.887Z",
   "calibrated": true,
-  "artists": []
+  "artists": [
+    {
+      "name": "Ai Music Hits",
+      "verdict": "ai",
+      "confidence": 100,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Bass Mode",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Dj Towla",
+      "verdict": "ai",
+      "confidence": 88,
+      "checked": "2026-11-20"
+    }
+  ]
 }
