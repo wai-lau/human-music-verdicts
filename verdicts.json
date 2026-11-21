@@ -1,6 +1,6 @@
 {
   "name": "Human Music verdicts",
-  "updated": "2026-11-20T21:29:28.887Z",
+  "updated": "2026-11-21T21:29:31.044Z",
   "calibrated": true,
   "artists": [
     {
@@ -10,13 +10,55 @@
       "checked": "2026-11-20"
     },
     {
+      "name": "Alternative Reality Radio",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-21"
+    },
+    {
+      "name": "Amarasco",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-20"
+    },
+    {
       "name": "Bass Mode",
       "verdict": "ai",
       "confidence": 94,
       "checked": "2026-11-20"
     },
     {
+      "name": "Ben Hims",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-21"
+    },
+    {
+      "name": "Broken Pick Theory",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-21"
+    },
+    {
       "name": "Dj Towla",
+      "verdict": "ai",
+      "confidence": 88,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "UK ARYA (Duo)",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "UK AUX",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "WMKR",
       "verdict": "ai",
       "confidence": 88,
       "checked": "2026-11-20"
