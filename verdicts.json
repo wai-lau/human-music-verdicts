@@ -1,6 +1,6 @@
 {
   "name": "Human Music verdicts",
-  "updated": "2026-11-21T21:29:31.044Z",
+  "updated": "2026-11-22T21:29:33.205Z",
   "calibrated": true,
   "artists": [
     {
@@ -40,10 +40,64 @@
       "checked": "2026-11-21"
     },
     {
+      "name": "Cinek",
+      "verdict": "ai",
+      "confidence": 100,
+      "checked": "2026-11-22"
+    },
+    {
       "name": "Dj Towla",
       "verdict": "ai",
       "confidence": 88,
       "checked": "2026-11-20"
+    },
+    {
+      "name": "Evelyn Blue",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-22"
+    },
+    {
+      "name": "Farfel",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-22"
+    },
+    {
+      "name": "Kano Choir",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-22"
+    },
+    {
+      "name": "KAY VORTEX",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-22"
+    },
+    {
+      "name": "Kimo Sounds",
+      "verdict": "ai",
+      "confidence": 100,
+      "checked": "2026-11-22"
+    },
+    {
+      "name": "Party Tunes",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-22"
+    },
+    {
+      "name": "ROSSO MUSIC",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-22"
+    },
+    {
+      "name": "SENEO",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-22"
     },
     {
       "name": "UK ARYA (Duo)",
@@ -62,6 +116,12 @@
       "verdict": "ai",
       "confidence": 88,
       "checked": "2026-11-20"
+    },
+    {
+      "name": "Zayyad",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-22"
     }
   ]
 }
