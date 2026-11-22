@@ -2,8 +2,461 @@
  "name": "Zoundhub",
  "source": "https://zoundhub.com",
  "note": "Artists Zoundhub rates 5 with Deezer's AI label, debut 2020 or later, mirrored once a day by Human Music. Zoundhub calls its rating \"an AI signal, not a verified classification\". A name Zoundhub also gives a low-rated artist matches by Spotify ID only (idOnly).",
- "updated": "2026-11-20T11:33:05.156Z",
+ "updated": "2026-11-22T11:33:09.466Z",
  "artists": [
+  {
+   "name": "ALL41",
+   "spotifyId": "2DClqe9oNk1Nn9UyflnWts"
+  },
+  {
+   "name": "Moon Sol",
+   "spotifyId": "21sNK8bPpOtnMQBqcoTMgl"
+  },
+  {
+   "name": "Kkuek",
+   "spotifyId": "2cuz1zncfKmlTL2QD5kuRo"
+  },
+  {
+   "name": "Salotune",
+   "spotifyId": "0dXMKwgT4QH7QhqYYn4BQB"
+  },
+  {
+   "name": "thegodwav",
+   "spotifyId": "1U2oRvtaLZifoppTRVniLz"
+  },
+  {
+   "name": "Sage Gee",
+   "spotifyId": "1vzp4SyUWXMCqnPajuhYfC"
+  },
+  {
+   "name": "Harmony Lovee",
+   "spotifyId": "1qQj1BWeLgg8GDv4kJ7P2m"
+  },
+  {
+   "name": "Chansons Chrétiennes Libres",
+   "spotifyId": "1v84MWy19IqXUnJcd0WxIT"
+  },
+  {
+   "name": "Be At Peace",
+   "spotifyId": "2DLbCEJubJzdXpG9ogpZvR"
+  },
+  {
+   "name": "The Velvet Label",
+   "spotifyId": "0r1sLfA4bupEshEvHoVZQy"
+  },
+  {
+   "name": "Erik Lewirl",
+   "spotifyId": "1ecensTwYKsvjEZ3MlcGPB"
+  },
+  {
+   "name": "Mollie's Soundscape",
+   "spotifyId": "1RIhil075Ck40HLZCyU7HZ"
+  },
+  {
+   "name": "Vibe With Hitch",
+   "spotifyId": "179R5Po9UtFGwZxjsnSQlw"
+  },
+  {
+   "name": "King Terryo",
+   "spotifyId": "1JpBqVsSEz0bQdTjluLAWo"
+  },
+  {
+   "name": "Iron Ragnar Vibes",
+   "spotifyId": "1wzDTTqGbrSUOFaeKTUFXN"
+  },
+  {
+   "name": "Bob Dominator",
+   "spotifyId": "1ZFBZewFqGWtN2boTgC4gx"
+  },
+  {
+   "name": "BJORN KOLD",
+   "spotifyId": "1LuViYnWgNPvg8YbYJU5kA"
+  },
+  {
+   "name": "Lumanua",
+   "spotifyId": "1lqDLxl0G5XuYIfV7D2OYo"
+  },
+  {
+   "name": "JORUN",
+   "spotifyId": "2S3E8lnL0P7zrJt76fboov"
+  },
+  {
+   "name": "Raven Wolf",
+   "spotifyId": "1UsiqaQ2FOqOedXiUhQ0vD"
+  },
+  {
+   "name": "Drome & Daglig",
+   "spotifyId": "1183YKVs1PA98aDlDTUgPE"
+  },
+  {
+   "name": "Isla Lennox",
+   "spotifyId": "1Zs1nCt4imaPYL4dbJk01m"
+  },
+  {
+   "name": "One Love Sounds Records",
+   "spotifyId": "2i3pgT7RmgFL1kcL4iFVtT"
+  },
+  {
+   "name": "Viviane Reid",
+   "spotifyId": "26AZwE9xBJzDJtnGq2s6Rn"
+  },
+  {
+   "name": "Shadow Bass King",
+   "spotifyId": "11IedudXDuCtZoM2Qxso9x"
+  },
+  {
+   "name": "Valhalla Cypher",
+   "spotifyId": "0SYp9RdECWkjMpHwpGPclZ"
+  },
+  {
+   "name": "Wolfskald",
+   "spotifyId": "2fycI1DmnXRJEI2h2ui3pj"
+  },
+  {
+   "name": "Jaxson Blue",
+   "spotifyId": "3fsz2o495NQskuFXoMRFZG"
+  },
+  {
+   "name": "SK.music",
+   "spotifyId": "2idvqUnIKHkb9VfKzqiT0Q",
+   "idOnly": true
+  },
+  {
+   "name": "Jamel",
+   "spotifyId": "4qFNUYGybBA9BVzoQJNxdp"
+  },
+  {
+   "name": "L.D.B Time to Chill",
+   "spotifyId": "50g7QglJ7GyXMut4VWTVqb"
+  },
+  {
+   "name": "Harriet Moser",
+   "spotifyId": "2AuVZeeTjEggur83qVD7T0"
+  },
+  {
+   "name": "Liana Ford",
+   "spotifyId": "3Ijx1BZ9HJXuWd1w1ryWvp"
+  },
+  {
+   "name": "Mimie Cruz",
+   "spotifyId": "08XwWffCmn5BQUpfIhXIMB"
+  },
+  {
+   "name": "Ryder James",
+   "spotifyId": "6UMDHmtSFRW7oQeFsgHhBC"
+  },
+  {
+   "name": "Santravita",
+   "spotifyId": "2UzGQaZjtVCsvaQoIiJEth"
+  },
+  {
+   "name": "Pamela Hale",
+   "spotifyId": "5KnOCbSfMJADpsrnz3fYFk"
+  },
+  {
+   "name": "Calen Ward",
+   "spotifyId": "2jPktvMdlMSetNO0koRw4r"
+  },
+  {
+   "name": "Noah Nine",
+   "spotifyId": "6R25mPYPOgfnAW1Bbqeeap"
+  },
+  {
+   "name": "Presley Ann",
+   "spotifyId": "6HJQX1uEweYqApdlI5FXfz"
+  },
+  {
+   "name": "Renovated Music",
+   "spotifyId": "4NxrMZnLL5pyQtk5C99vbW"
+  },
+  {
+   "name": "Rustic Poem Records",
+   "spotifyId": "74kJTsDw7SAbVxUpzYrXNL"
+  },
+  {
+   "name": "Umacaca",
+   "spotifyId": "5bBoOTMSkx02ekWot7t3x2"
+  },
+  {
+   "name": "Riley Mae Dalton",
+   "spotifyId": "7JBvx39CUNc58OtwBOnxN4"
+  },
+  {
+   "name": "Ylva Ironheart",
+   "spotifyId": "04QUpQJ0IilVGieq0GWczK"
+  },
+  {
+   "name": "Echoes of the Shamanic Grove",
+   "spotifyId": "7j4GINDAthSTHZEaMXsNHI"
+  },
+  {
+   "name": "Northveil",
+   "spotifyId": "79PRG8DE5V5x3TrDB6kboF"
+  },
+  {
+   "name": "Viggo Ironside",
+   "spotifyId": "2agKGmtbyv1JPsCJdPr0R5"
+  },
+  {
+   "name": "Freya Dakkar",
+   "spotifyId": "31OE6cAN8q8GhwahVKYTvr"
+  },
+  {
+   "name": "Layla Hudson",
+   "spotifyId": "4zx3ZvH58Vg83Q8Pq4VxYN"
+  },
+  {
+   "name": "Sebas Spisso",
+   "spotifyId": "7C7HZjG9sBgNcR4OTlySMJ"
+  },
+  {
+   "name": "NVNAMusic",
+   "spotifyId": "6FxTh6GMAQxirsHbXirUir"
+  },
+  {
+   "name": "LatiMelody",
+   "spotifyId": "7M8PC2tenacxGs43HhORUq"
+  },
+  {
+   "name": "Alba Letycia",
+   "spotifyId": "53ejCadpKDLZAGO2Q7JOM5"
+  },
+  {
+   "name": "Paulina Iribarne",
+   "spotifyId": "2CoKdonS5SBPBcwXVkZTUL"
+  },
+  {
+   "name": "Huellas Divinas",
+   "spotifyId": "54Nb7DwYNBymNTcDyxih7K"
+  },
+  {
+   "name": "Maggie Morgan",
+   "spotifyId": "1vrPUAKLsOTFkLSQ8ZEy4c"
+  },
+  {
+   "name": "Música Expansiva - Omar Valen",
+   "spotifyId": "0QnWNb63QNLUlCqwZZIz7T"
+  },
+  {
+   "name": "Mantras de luz y prosperidad",
+   "spotifyId": "7FhbFrwgbaBVKy6g8DlyeV"
+  },
+  {
+   "name": "Positive Heart",
+   "spotifyId": "4PJ2YvxbA42999CDxYp5fX"
+  },
+  {
+   "name": "Tu Guia Espiritual",
+   "spotifyId": "1PjgsnSD0XDigkJNBuEWlR"
+  },
+  {
+   "name": "Radio Manifestación",
+   "spotifyId": "4eQK4ejIpluvkI3nl6pOzL"
+  },
+  {
+   "name": "Austin Benton",
+   "spotifyId": "4siqXNWBsA0aRFcPTa1lMZ"
+  },
+  {
+   "name": "Today's Creative",
+   "spotifyId": "774fYYOKUsma6GK8rEEjHB"
+  },
+  {
+   "name": "Vaspira Sweet",
+   "spotifyId": "3g32nDPpgTjD5vgMOCOq7c"
+  },
+  {
+   "name": "Forever Luv",
+   "spotifyId": "2CdyZaorm15McMYx6QkUrW"
+  },
+  {
+   "name": "Ken Will",
+   "spotifyId": "5UIKFGxKF74gtdhUhtVSkt"
+  },
+  {
+   "name": "John Fadejola",
+   "spotifyId": "1aZC1pGZxT6o74rMxtSfuT"
+  },
+  {
+   "name": "Arielle Faith",
+   "spotifyId": "5fqbPPflArRUiL7xeh1Wvk"
+  },
+  {
+   "name": "Honey Veil",
+   "spotifyId": "1tIO7SUJN0liQDcGqyno4D"
+  },
+  {
+   "name": "ZURI USIKU",
+   "spotifyId": "2nKx8I2LdYtkHePRxU4M8r"
+  },
+  {
+   "name": "Millionaire Muses",
+   "spotifyId": "3A6SSNRY0BBHIN5yR9UWXI"
+  },
+  {
+   "name": "Got Dem Blues",
+   "spotifyId": "1WDPxgIKaORDw43VFTtUFg"
+  },
+  {
+   "name": "M.Sasuke",
+   "spotifyId": "75t1r7Dnlz4EDc1Dn7Yqtd"
+  },
+  {
+   "name": "Sound Storm",
+   "spotifyId": "2qu2i41Z5U4WIVYsQf7DRo"
+  },
+  {
+   "name": "Aerovibe",
+   "spotifyId": "6ETUaq3Jtq0fB3vmbUShnZ"
+  },
+  {
+   "name": "MOYO",
+   "spotifyId": "6J6gMT7woU0f1jlANp4HfT"
+  },
+  {
+   "name": "LOOPYPOOPY",
+   "spotifyId": "2IVePou5QufbpXGgbZiwKH"
+  },
+  {
+   "name": "Super Crispee",
+   "spotifyId": "4FfVcGzMGqsCMbL3slqhpq"
+  },
+  {
+   "name": "Jaklyn Feara",
+   "spotifyId": "4fVhwECTEbcfgIYXfW7B09"
+  },
+  {
+   "name": "Max Gaze",
+   "spotifyId": "1fPh19xRlS9xxPglPrdKJV"
+  },
+  {
+   "name": "Kaiahrun",
+   "spotifyId": "6XkGWT19mVIQOFv249bRPV"
+  },
+  {
+   "name": "Vatican Vitrum",
+   "spotifyId": "5We05MYHQsbtFBOJRIUy5g"
+  },
+  {
+   "name": "Z.o.D-X",
+   "spotifyId": "7AjTRXK9X81NfSlmMyo6PV"
+  },
+  {
+   "name": "Trivix",
+   "spotifyId": "25zS4kjOyLQt0r4dlCXCCM"
+  },
+  {
+   "name": "NEVRAXIS",
+   "spotifyId": "6EcWM4ukNwzxVyGcB0hK6t"
+  },
+  {
+   "name": "Alex May Project",
+   "spotifyId": "6zq7J8DVbSIGzkWYGjlyt0"
+  },
+  {
+   "name": "Flow Desire",
+   "spotifyId": "4Hq5WePeTvYqugTwiN8av8"
+  },
+  {
+   "name": "KILLCRITIC",
+   "spotifyId": "7DbGE8pFjVND1T56E6lXaU"
+  },
+  {
+   "name": "REXX Muse",
+   "spotifyId": "2DBtxyZ1yu9lQoPo28eJPs"
+  },
+  {
+   "name": "DEN ERRE",
+   "spotifyId": "1MDZ0HRwb4P8lZwobnPe13"
+  },
+  {
+   "name": "Jaquelle.os",
+   "spotifyId": "0ecgJNgFcGrvnRMX9PeSBQ"
+  },
+  {
+   "name": "Djane Moonja",
+   "spotifyId": "4OxRQ1b56G1ZHO2OveAVLA"
+  },
+  {
+   "name": "SoulARTS M.",
+   "spotifyId": "6PNPJ7lIEgCVkT8tTeAHgs"
+  },
+  {
+   "name": "Captain Mavros",
+   "spotifyId": "39iwtGoYjyF1MGTGnRg8HD"
+  },
+  {
+   "name": "Mustafa Olgun",
+   "spotifyId": "2lzmMbMue75naPO9QcBlqr"
+  },
+  {
+   "name": "weinii23",
+   "spotifyId": "2Jv2mtnQ8rB9pmqE7FMQN1"
+  },
+  {
+   "name": "Sharako",
+   "spotifyId": "3sbwaeDS1iLCS2ImAE2QyM"
+  },
+  {
+   "name": "PXRSA",
+   "spotifyId": "6Ms7x7SNXviRB44zLZr3Vp"
+  },
+  {
+   "name": "IsiRamos",
+   "spotifyId": "6wIkU0bL7XgYAPlM5o5sDX"
+  },
+  {
+   "name": "Jacquelyne Leverson",
+   "spotifyId": "3RYrwqUFQKxBna4Q6A4sfT"
+  },
+  {
+   "name": "Dj_Blackjag",
+   "spotifyId": "2WDvosdkKuD3XSZn4Sftxa"
+  },
+  {
+   "name": "DEGUITY",
+   "spotifyId": "1B4hchN1UBS10IBSAOcTSu"
+  },
+  {
+   "name": "Dj PaddyMac",
+   "spotifyId": "4wR72t7QZy1F1wjUF8fn0n"
+  },
+  {
+   "name": "Mike Raydio",
+   "spotifyId": "4E4w5RF5AH0GXHBIRWQx3y"
+  },
+  {
+   "name": "Spiraxis",
+   "spotifyId": "4wAxfQUlyfQhxK9WtL6wR7"
+  },
+  {
+   "name": "Brutal Deluxe",
+   "spotifyId": "00PpmHI0QJXnzM1Yq4HT3A"
+  },
+  {
+   "name": "Barking HUB",
+   "spotifyId": "6ZaHpMIWfMhv0fPF5K7PW6"
+  },
+  {
+   "name": "Quinta Queen",
+   "spotifyId": "5wfV7CYXsii8v4hOd96KOG"
+  },
+  {
+   "name": "Feiner Stoff",
+   "spotifyId": "5117sjDyzI9ZTvfQHF1X1c"
+  },
+  {
+   "name": "DJ OZI",
+   "spotifyId": "1xYzqGqoY4RGxc6YmrKhDL"
+  },
+  {
+   "name": "DJ toshipon",
+   "spotifyId": "29ICMR7gG3IOfMhpH5tP5k"
+  },
+  {
+   "name": "Panflute",
+   "spotifyId": "60isepggJ0O2cwJLONggFQ"
+  },
   {
    "name": "Dominus-Music",
    "spotifyId": "1V9GDbW73HvUgaOFlFyI50"
