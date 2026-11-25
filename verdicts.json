@@ -1,6 +1,6 @@
 {
   "name": "Human Music verdicts",
-  "updated": "2026-11-22T21:29:33.205Z",
+  "updated": "2026-11-25T21:29:37.291Z",
   "calibrated": true,
   "artists": [
     {
@@ -34,6 +34,25 @@
       "checked": "2026-11-21"
     },
     {
+      "labelName": "Breaking Rust",
+      "verdict": "ai",
+      "confidence": 100,
+      "checked": "2026-11-25",
+      "spotifyId": "3h9rLaviiFj1TeEhdIRpP5",
+      "titles": [
+        "Livin’ on Borrowed Time",
+        "Walk My Walk",
+        "Hate me all you want",
+        "Whiskey don't talk back",
+        "No apologies left in me",
+        "Kicking Back At The Ground",
+        "Time don't stop",
+        "'The One's You Trust",
+        "Love Don't Live Here",
+        "Walk my line"
+      ]
+    },
+    {
       "name": "Broken Pick Theory",
       "verdict": "ai",
       "confidence": 94,
@@ -52,6 +71,25 @@
       "checked": "2026-11-20"
     },
     {
+      "labelName": "Enlly Blue",
+      "verdict": "ai",
+      "confidence": 100,
+      "checked": "2026-11-25",
+      "spotifyId": "28W1qq34TByUcLOtkceRxp",
+      "titles": [
+        "Through My Soul",
+        "Never Felt Like This",
+        "Slow Sip of Solitude",
+        "Rust & Roses",
+        "Sweet Control",
+        "Fire in My Veins",
+        "City's Too Big",
+        "The Way You Move Me",
+        "Almost Said It",
+        "Love That Burns"
+      ]
+    },
+    {
       "name": "Evelyn Blue",
       "verdict": "ai",
       "confidence": 94,
@@ -62,6 +100,12 @@
       "verdict": "ai",
       "confidence": 94,
       "checked": "2026-11-22"
+    },
+    {
+      "name": "FThowmuchbpm",
+      "verdict": "ai",
+      "confidence": 94,
+      "checked": "2026-11-25"
     },
     {
       "name": "Kano Choir",
@@ -82,6 +126,25 @@
       "checked": "2026-11-22"
     },
     {
+      "labelName": "Masters of Prophecy",
+      "verdict": "ai",
+      "confidence": 100,
+      "checked": "2026-11-25",
+      "spotifyId": "3vV6kgqJHi1rg46i4Iwzr1",
+      "titles": [
+        "Midnight Eyes",
+        "Phantom on the Radio",
+        "Glowstick Promises",
+        "Liquid Lightning",
+        "Too Busy For Love",
+        "After Midnight",
+        "Vibe Never Dies",
+        "Binary Whispers",
+        "Let's Take Flight",
+        "You're So Electric"
+      ]
+    },
+    {
       "name": "Party Tunes",
       "verdict": "ai",
       "confidence": 94,
@@ -100,6 +163,25 @@
       "checked": "2026-11-22"
     },
     {
+      "labelName": "The Velvet Sundown",
+      "verdict": "ai",
+      "confidence": 100,
+      "checked": "2026-11-25",
+      "spotifyId": "2GRtyAXWUiisGYub5SGMrb",
+      "titles": [
+        "Dust on the Wind",
+        "As the Silence Falls",
+        "Drift Beyond the Flame",
+        "The Wind Still Knows Our Name",
+        "From Deep Within",
+        "Smoke and Silence",
+        "Leave the Light On",
+        "Where War Remains",
+        "Rivers Run Free",
+        "End the Pain"
+      ]
+    },
+    {
       "name": "UK ARYA (Duo)",
       "verdict": "ai",
       "confidence": 94,
@@ -110,6 +192,25 @@
       "verdict": "ai",
       "confidence": 94,
       "checked": "2026-11-20"
+    },
+    {
+      "labelName": "Velvet Sundown",
+      "verdict": "ai",
+      "confidence": 100,
+      "checked": "2026-11-25",
+      "spotifyId": "2AsPwXK5ZXIZl4oGDV4dFe",
+      "titles": [
+        "Painted Horizon",
+        "Flickerless",
+        "Opaline Fire",
+        "Kaleidoscope Dream",
+        "Rite of the Dawn",
+        "Pelmet Nights",
+        "Moonlit Mirage",
+        "Yo! Banana Boy",
+        "Golden Hour",
+        "The Lucid Mirage"
+      ]
     },
     {
       "name": "WMKR",
